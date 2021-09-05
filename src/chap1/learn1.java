@@ -1,6 +1,7 @@
-package learn;
+package chap1;
 
-public class learnjava {
+public class learn1 {
+	
 	public static void main(String[] args) {
 		int var1 = 20;
 		double var2 = 1.23;
@@ -8,10 +9,9 @@ public class learnjava {
 		double var4 = (double)var1 + var2;
 		System.out.println("var3 ="  + var3);
 		System.out.println("var4 = " + var4);
-		main1();
-		main2();
-		main3();
-		
+//		main1();
+//		main2();
+//		main3();
 	}
 	 //data type
 	public static void main3() {
@@ -19,7 +19,7 @@ public class learnjava {
 		int var2 = 129;
 		boolean var3 = true;
 		double var4 = 123.456;  //john Smith;
-		String name =  "john Smith";
+		String name =  "john Smiththgt";
 		
 		System.out.println("var1"  + var1);
 		System.out.println("var2"  + var2);
